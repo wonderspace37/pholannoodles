@@ -14,5 +14,6 @@ if (close) {
     })
 }
 function redirectToGrubhub() {
-    window.location.href = 'https://www.grubhub.com/restaurant/pho-lan-noodles-house-39060-fremont-blvd-fremont/3252378';
+
+    <script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async ></script>
 }
