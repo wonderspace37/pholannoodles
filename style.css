@@ -76,6 +76,12 @@ button.white {
 
 .section-p1 {
     padding: 40px 80px;
+
+}
+
+.section-p2 {
+    padding: 40px 100px;
+
 }
 
 .section-m1 {
@@ -1169,5 +1175,13 @@ footer a:hover {
     #prodetails .single-pro-details {
         width: 100%;
         padding-top: 30px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    /* You can adjust the max-width value as needed */
+    #desktop-only {
+        display: none;
     }
 }
